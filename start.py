@@ -2,9 +2,8 @@
 #coding=utf8
 __author__ = 'wanghaifei'
 """
-__author__ = 'wanghaifei'
  Time: 15-7-29 下午4:28
-
+ Test
 """
 import sys
 import com.jr.funnel.funnelMain as funnelMain
