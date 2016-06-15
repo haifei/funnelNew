@@ -3,7 +3,7 @@
 __author__ = 'wanghaifei'
 """
  Time: 15-7-29 下午4:28
- Test
+ Test2
 """
 import sys
 import com.jr.funnel.funnelMain as funnelMain
