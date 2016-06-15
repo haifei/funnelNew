@@ -1,7 +1,7 @@
 # funnelNew
 漏斗模型——pyspark
 
-提交命令：  pyspark   start.py   -d 21050717 --py-files funnelNew.zip  
+提交命令：  pyspark   start.py   -d 20150717 --py-files funnelNew.zip  
 
 
 读取hdfs数据依据规则，进行漏斗模型分析
